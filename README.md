@@ -19,6 +19,5 @@
   <img align="center" alt="issa-C" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="issa-Java" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="right" alt="issa-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/960/1*9GJWUvET3it_2XPX9CAUXw.gif">
-  <img align="center" alt="issa-html" height="30" width="30" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg/>">
-  <img align="center" alt="issa-css3" height="30" width="30" src="<img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg />">
+  <img align="center" alt="issa-Java" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
