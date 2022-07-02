@@ -17,9 +17,15 @@
   Estudando atualmente:
   <img align="center" alt="issa-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="issa-C" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="right" alt="issa-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/960/1*9GJWUvET3it_2XPX9CAUXw.gif">
+  <img align="right" alt="issa-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/hkqefnFjn2MWVl6xvq/giphy.gif?cid=ecf05e47c7isg0hn5raf0h2sbcxbaasubh9n0zeqxtglul3r&rid=giphy.gif&ct=g">
   <img align="center" alt="issa-HTML" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="issa-CSS" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
 
-
+##
+<div> 
+  <a href = "mailto:isabellysouza1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/isabelly-souza-a6a5ba241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+![snake gif](https://github.com/issasouza/issasouza/blob/output/github-contribution-grid-snake.svg)
 </div>
