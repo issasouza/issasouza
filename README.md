@@ -1,6 +1,6 @@
 ## Olá! Eu sou Isabelly souza
 ##
-- 👾Sou aluna de desenvolvimento de sistemas no ETE Ginasio pernambucano.
+- 👾Sou técnico de desenvolvimento de sistemas.
 - 👾Pronomes: Ela/Dela
 ##
 <div align="center">
@@ -13,14 +13,7 @@
   
   </div>
 
-<div style="display: inline_block"><br>
-  Estudando atualmente:
-  <img align="center" alt="issa-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="issa-C" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="right" alt="issa-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/hkqefnFjn2MWVl6xvq/giphy.gif?cid=ecf05e47c7isg0hn5raf0h2sbcxbaasubh9n0zeqxtglul3r&rid=giphy.gif&ct=g">
-  <img align="center" alt="issa-HTML" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="issa-CSS" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
+
 
 ##
 <div> 
